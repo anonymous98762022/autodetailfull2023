@@ -1,0 +1,607 @@
+{
+    "masks":
+    {
+        "images/01.png":
+        {
+            "mask": "masks/01.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+               
+            }
+        },
+        "images/02.png":
+        {
+            "mask": "masks/02.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/03.png":
+        {
+            "mask": "masks/03.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+             
+            }
+        },
+        "images/04.png":
+        {
+            "mask": "masks/04.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+               
+            }
+        },
+        "images/05.png":
+        {
+            "mask": "masks/05.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/06.png":
+        {
+            "mask": "masks/06.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/07.png":
+        {
+            "mask": "masks/07.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/08.png":
+        {
+            "mask": "masks/08.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/09.png":
+        {
+            "mask": "masks/09.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/010.png":
+        {
+            "mask": "masks/010.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+              
+            }
+        },
+        "images/011.png":
+        {
+            "mask": "masks/011.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/012.png":
+        {
+            "mask": "masks/012.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+               
+            }
+        },
+        "images/013.png":
+        {
+            "mask": "masks/013.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/014.png":
+        {
+            "mask": "masks/014.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+              
+            }
+        },
+        "images/015.png":
+        {
+            "mask": "masks/015.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/016.png":
+        {
+            "mask": "masks/016.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/017.png":
+        {
+            "mask": "masks/017.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/018.png":
+        {
+            "mask": "masks/018.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/019.png":
+        {
+            "mask": "masks/019.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category":"comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/020.png":
+        {
+            "mask": "masks/020.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category":"comments", "super_category": "GoogleDocs"}
+               
+            }
+        },
+        "images/021.png":
+        {
+            "mask": "masks/021.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/022.png":
+        {
+            "mask": "masks/022.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/023.png":
+        {
+            "mask": "masks/023.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/024.png":
+        {
+            "mask": "masks/024.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/025.png":
+        {
+            "mask": "masks/025.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/026.png":
+        {
+            "mask": "masks/026.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/027.png":
+        {
+            "mask": "masks/027.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/028.png":
+        {
+            "mask": "masks/028.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/029.png":
+        {
+            "mask": "masks/029.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/030.png":
+        {
+            "mask": "masks/030.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/031.png":
+        {
+            "mask": "masks/031.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/032.png":
+        {
+            "mask": "masks/032.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/033.png":
+        {
+            "mask": "masks/033.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/034.png":
+        {
+            "mask": "masks/034.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+
+        "images/035.png":
+        {
+            "mask": "masks/035.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/036.png":
+        {
+            "mask": "masks/036.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/037.png":
+        {
+            "mask": "masks/037.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/038.png":
+        {
+            "mask": "masks/038.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/039.png":
+        {
+            "mask": "masks/039.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/040.png":
+        {
+            "mask": "masks/040.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/041.png":
+        {
+            "mask": "masks/041.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/042.png":
+        {
+            "mask": "masks/042.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/043.png":
+        {
+            "mask": "masks/043.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/044.png":
+        {
+            "mask": "masks/044.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/045.png":
+        {
+            "mask": "masks/045.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/046.png":
+        {
+            "mask": "masks/046.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/047.png":
+        {
+            "mask": "masks/047.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/048.png":
+        {
+            "mask": "masks/048.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/049.png":
+        {
+            "mask": "masks/049.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/050.png":
+        {
+            "mask": "masks/050.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category":"description", "super_category": "wordDocs"}
+            }
+        },
+        "images/051.png":
+        {
+            "mask": "masks/051.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/052.png":
+        {
+            "mask": "masks/052.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/053.png":
+        {
+            "mask": "masks/053.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/054.png":
+        {
+            "mask": "masks/054.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/055.png":
+        {
+            "mask": "masks/055.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/056.png":
+        {
+            "mask": "masks/056.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/057.png":
+        {
+            "mask": "masks/057.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/058.png":
+        {
+            "mask": "masks/058.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/059.png":
+        {
+            "mask": "masks/059.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/060.png":
+        {
+            "mask": "masks/060.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/061.png":
+        {
+            "mask": "masks/061.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/062.png":
+        {
+            "mask": "masks/062.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/063.png":
+        {
+            "mask": "masks/063.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/064.png":
+        {
+            "mask": "masks/064.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        },
+        "images/065.png":
+        {
+            "mask": "masks/065.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "description", "super_category": "wordDocs"}
+            }
+        }
+
+
+        
+    
+        
+    },
+    "super_categories":
+    {
+        "GoogleDocs": ["comments"],
+        "wordDocs":["description"]
+        
+   
+        
+     
+
+        
+        
+    }
+}

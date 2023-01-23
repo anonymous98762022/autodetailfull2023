@@ -1,0 +1,111 @@
+{
+    "masks":
+    {
+        "images/001.png":
+        {
+            "mask": "masks/001.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+               
+            }
+        },
+        "images/002.png":
+        {
+            "mask": "masks/002.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+                
+            }
+        },
+        "images/003.png":
+        {
+            "mask": "masks/003.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+             
+            }
+        },
+        "images/004.png":
+        {
+            "mask": "masks/004.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+               
+            }
+        },
+        "images/005.png":
+        {
+            "mask": "masks/005.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "comments", "super_category": "GoogleDocs"}
+            }
+        },
+        "images/006.png":
+        {
+            "mask": "masks/006.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "description", "super_category":  "wordDocs"}
+            }
+        },
+        "images/007.png":
+        {
+            "mask": "masks/007.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "description", "super_category":  "wordDocs"}
+            }
+        },
+        "images/008.png":
+        {
+            "mask": "masks/008.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "description", "super_category":  "wordDocs"}
+            }
+        },
+        "images/009.png":
+        {
+            "mask": "masks/009.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "description", "super_category":  "wordDocs"}
+            }
+        },
+        "images/010.png":
+        {
+            "mask": "masks/010.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "description", "super_category":  "wordDocs"}
+            }
+        }
+       
+        
+    
+        
+    },
+    "super_categories":
+    {
+        "GoogleDocs": ["comments"],
+        "wordDocs":["description"]
+        
+   
+        
+     
+
+        
+        
+    }
+}
